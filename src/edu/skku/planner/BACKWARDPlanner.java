@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 import edu.skku.planner.io.DataReader;
 
 public class BACKWARDPlanner {
-
+	// Git Test (16.04.07)
 	String productID; // 생산요청 완제품ID
 	int order_qty; // 완제품 생산요청 수량(주문수)
 	int[] part_ID; // 3D프린터 생산 필요 부품 ID
